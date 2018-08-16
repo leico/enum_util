@@ -1,0 +1,6 @@
+[submodule "includes/operator_acception"]
+	path = includes/operator_acception
+	url = https://github.com/leico/operator_acception.git
+[submodule "includes/bool_checker"]
+	path = includes/bool_checker
+	url = https://github.com/leico/bool_checker.git
