@@ -26,10 +26,10 @@ provide 2 returned type
 
 provide 2 types cast
 
-* ` :: to_enum`
-    * cast to `EnumClass` type
-* ` :: to_underlying`
-    * cast to `EnumClass` s underlying_type
+* ` :: to_enum( target )`
+    * `target` cast to `EnumClass` type
+* ` :: to_underlying( target )`
+    * `target` cast to `EnumClass` s underlying_type
 
 ### `enum_util :: is_same_underlying< T, U > :: value`
 
